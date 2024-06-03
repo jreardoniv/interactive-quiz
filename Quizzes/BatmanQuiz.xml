@@ -1,0 +1,51 @@
+<QuizML name="Batman Quiz">
+    <Description>This is the Batman Quiz.</Description>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">Who played Batman in the Christopher Nolan Trilogy?</QuestionText>
+        <Answer name="1">Val Kilmer</Answer>
+        <Answer name="2">Christian Bale</Answer>
+        <Answer name="3">Michael Keaton</Answer>
+        <Answer name="4">Adam West</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">What is the name of the slum-district in Batman Begins?</QuestionText>
+        <Answer name="1">Arkham District</Answer>
+        <Answer name="2">The Slums</Answer>
+        <Answer name="3">The Narrows</Answer>
+        <Answer name="4">Wall Street</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="4">During the opening heist in the Dark Knight, who does The Joker say he's supposed to kill?</QuestionText>
+        <Answer name="1">The Bank Robber</Answer>
+        <Answer name="2">The Alarm Guy</Answer>
+        <Answer name="3">The Safe Cracker</Answer>
+        <Answer name="4">The Bus Driver</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">Who voiced Two Face in the Lego Batman Movie?</QuestionText>
+        <Answer name="1">Billy Dee Williams</Answer>
+        <Answer name="2">Tommy Lee Jones</Answer>
+        <Answer name="3">Aaron Eckhart</Answer>
+        <Answer name="4">Harrison Ford</Answer>
+    </Question>
+    <Question type="multichoice" points="20">
+        <QuestionText answer="3">Bonus Question: Who played the Joker in the 1966 Batman Movie?</QuestionText>
+        <Answer name="1">Frank Gorshin</Answer>
+        <Answer name="2">Burgess Meredith</Answer>
+        <Answer name="3">Cesar Romero</Answer>
+        <Answer name="4">Burt Ward</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">Who murdered Bruce Wayne's parents in the Batman 1989 movie?</QuestionText>
+        <Answer name="1">Jack Napier</Answer>
+        <Answer name="2">Harvey Dent</Answer>
+        <Answer name="3">Carl Grissom</Answer>
+        <Answer name="4">Alexander Knox</Answer>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">Did Michael Keaton play Batman in Batman Forever?</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Did the Joker blow up a hospital in The Dark Knight?</QuestionText>
+    </Question>
+</QuizML>

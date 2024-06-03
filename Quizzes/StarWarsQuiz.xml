@@ -1,0 +1,51 @@
+<QuizML name="Star Wars Quiz">
+    <Description>This is the Star Wars Quiz.</Description>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">In what movie did the birth of Luke Skywalker take place?</QuestionText>
+        <Answer name="1">A New Hope</Answer>
+        <Answer name="2">Revenge of the Sith</Answer>
+        <Answer name="3">Attack of the Clones</Answer>
+        <Answer name="4">The Phantom Menace</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">Who trained Obi-Wan Kenobi in the Phantom Menace?</QuestionText>
+        <Answer name="1">Anakin Skywalker</Answer>
+        <Answer name="2">Yoda</Answer>
+        <Answer name="3">Qui-Gon Jinn</Answer>
+        <Answer name="4">Mace Windu</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="4">Who wields a purple lightsaber in Attack of the Clones?</QuestionText>
+        <Answer name="1">Anakin Skywalker</Answer>
+        <Answer name="2">Yoda</Answer>
+        <Answer name="3">Qui-Gon Jinn</Answer>
+        <Answer name="4">Mace Windu</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">Who brings balance back to the force at the end of Return of the Jedi?</QuestionText>
+        <Answer name="1">Darth Vader</Answer>
+        <Answer name="2">Yoda</Answer>
+        <Answer name="3">Luke Skywalker</Answer>
+        <Answer name="4">Han Solo</Answer>
+    </Question>
+    <Question type="multichoice" points="20">
+        <QuestionText answer="3">Bonus Question: What character was first introduced in the 1978 Holiday Special?</QuestionText>
+        <Answer name="1">Darth Vader</Answer>
+        <Answer name="2">Luke Skywalker</Answer>
+        <Answer name="3">Boba Fett</Answer>
+        <Answer name="4">Chewbacca</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">What is the name of Padme's home planet?</QuestionText>
+        <Answer name="1">Naboo</Answer>
+        <Answer name="2">Tatooine</Answer>
+        <Answer name="3">Alderann</Answer>
+        <Answer name="4">Coruscant</Answer>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">Was Luke Skywalker born on Tatooine?</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Were the Death Star plans stolen on Scarif?</QuestionText>
+    </Question>
+</QuizML>

@@ -1,0 +1,51 @@
+<QuizML name="Gladiator Quiz">
+    <Description>This is the Gladiator Quiz.</Description>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">Who plays Maximus?</QuestionText>
+        <Answer name="1">Joaquin Phoenix</Answer>
+        <Answer name="2">Russell Crowe</Answer>
+        <Answer name="3">Chris Hemsworth</Answer>
+        <Answer name="4">Robert Downey Jr.</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">How was Marcus Aurelius murdered?</QuestionText>
+        <Answer name="1">Poisoned</Answer>
+        <Answer name="2">Stabbed in the back</Answer>
+        <Answer name="3">Smothered by his son</Answer>
+        <Answer name="4">Beheaded</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="4">What is thrown to the crowd in the Colosseum?</QuestionText>
+        <Answer name="1">Money</Answer>
+        <Answer name="2">Weapons</Answer>
+        <Answer name="3">Roses</Answer>
+        <Answer name="4">Bread</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">What letters are tattooed on Maximus' left shoulder?</QuestionText>
+        <Answer name="1">SPQR</Answer>
+        <Answer name="2">ROME</Answer>
+        <Answer name="3">LEGION</Answer>
+        <Answer name="4">MARS</Answer>
+    </Question>
+    <Question type="multichoice" points="20">
+        <QuestionText answer="3">Bonus Question: What is Maximus's full name?</QuestionText>
+        <Answer name="1">Maximus Gracchus Meridius</Answer>
+        <Answer name="2">Maximus Proximo Meridius</Answer>
+        <Answer name="3">Maximus Decimus Meridius</Answer>
+        <Answer name="4">Maximus Quintus Meridius</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">Who directed this movie?</QuestionText>
+        <Answer name="1">Ridley Scott</Answer>
+        <Answer name="2">Tim Burton</Answer>
+        <Answer name="3">Michael Bay</Answer>
+        <Answer name="4">Christopher Nolan</Answer>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">Is Commodus Maximus' brother?</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Is Proximo a former Gladiator?</QuestionText>
+    </Question>
+</QuizML>
