@@ -18,4 +18,4 @@ git clone https://github.com/yourusername/movietriviaquiz.git
 cd movietriviaquiz
 
 ## Screenshot of the GUI Interface
-![Screenshot (1119)](https://github.com/jreardoniv/interactive-quiz/assets/171094811/7b49a7d8-9a9b-4eab-9556-c1054c9c27c4)
+
