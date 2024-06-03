@@ -13,9 +13,10 @@ This is a Movie Trivia Quiz application built using Python with a GUI interface.
 
 1. Clone the repository:
 
-```sh
+sh
 git clone https://github.com/yourusername/movietriviaquiz.git
 cd movietriviaquiz
 
-## Screenshot of the GUI Interface
+## Screenshot
+![Screenshot (1119)](https://github.com/jreardoniv/interactive-quiz/assets/171094811/f8f17dfc-b2b0-4d10-9038-23e6f4d58d8f)
 
